@@ -1,3 +1,4 @@
 <?
-echo "Hello world 24";
+echo "Hello world 2.5";
+
 ?>
